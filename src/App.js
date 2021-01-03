@@ -1,8 +1,8 @@
-
 function App() {
   return (
     <div className="App">
-      <p>news app hello world</p>
+      <p className="bg-blue-100">news app hello world</p>
+      <p className="bg-up-green">news app hello world</p>
     </div>
   );
 }
